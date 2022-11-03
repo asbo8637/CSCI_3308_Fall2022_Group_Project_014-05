@@ -1,4 +1,4 @@
-# CSCI_3308_Fall2022_Group_Project_014-PeoplePeople Inc. LLC CO Limited ®™
+# CSCI_3308_Fall2022_Group_Project_014-NotPeoplePeople Inc. LLC CO Limited ®™
 
 # RottenBuffs
 
