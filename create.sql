@@ -24,4 +24,6 @@ CREATE TABLE reviews(
     month INTEGER NOT NULL,
     day INTEGER NOT NULL,
     review VARCHAR(500) NOT NULL,
+    upvotes INTEGER,
+    downvotes INTEGER
 );
